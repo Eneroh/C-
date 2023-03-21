@@ -1,3 +1,5 @@
+#include <iostream>
+
 int main() {
  int pos = 0;
  int endPos = 0;
